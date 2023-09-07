@@ -26,4 +26,10 @@ If you find this work interesting/useful, please cite it in your own work. Thank
 
 ## Download and Installation
 
-The DRIPPS interface is a project developed in Java language thus being *plataform agnostic*.
+The DRIPPS interface is a project developed in Java language, thus being *platform agnostic*. However, some platform nuances must be regarded as it uses the JavaFX library. Therefore, specific installations are provided below.
+
+### Windows Platform
+
+For the Windows platform ...
+
+
