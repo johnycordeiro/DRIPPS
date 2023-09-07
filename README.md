@@ -15,3 +15,14 @@ The table presents one sentence per line with its corresponding annotations: Dis
 
 In [Figure 2](#figure-statistics) we have an exemplification on the generation of statistical distributions for a given data configuration loaded to the applications' table. The data configuration depends on the selected/loaded corpora and the selected constraints applied on the panel. In this particular case, we can see a graph distribution for the Aspectual type of the SC, for the British English corpus, given that the Discourse Relation is set to cause. The application allows generating several graphs like this simultaneously and for different data configurations, which enables one, for example, to compare similar phenomena on different corpora.
 
+## Citing our Work
+
+More information about our work on diecourse relations can be obtained on the following publication:
+
+Silvano, P., Cordeiro, J., Leal, A., and Pais, S. DRIPPS: a Corpus with Discourse Relations in Perfect Participial Sentences. To be published by ACL in an open-access conference proceedings volume. September 2023.
+
+If you find it interesting/useful, please cite it in your own work. Thank you in advance!
+
+## Download and Installation
+
+The DRIPPS interface is a project developed in Java language thus being *plataform agnostic*.
