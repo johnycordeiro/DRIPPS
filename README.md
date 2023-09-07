@@ -30,6 +30,6 @@ The DRIPPS interface is a project developed in Java language, thus being *platfo
 
 ### Windows Platform
 
-For the Windows platform ...
+For the Windows platform ....
 
 
