@@ -36,8 +36,11 @@ For the Windows platform, you may download and install the following [DRIPPS-1.0
 
 ### MacOs X Platform
 
-For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file. After openning the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
+For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file. After opening the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
 
 ![File I-DRIPPS01.png](I-DRIPPS01.png)
 
+Move the app to your *Applications* folder and close the window. Then, open your *Applications* folder and locate the application icon. Now if you try to open the application with just a double click you will get a security inibition message, similar to what is shown in the following image:
+
+![File I-DRIPPS03.png](I-DRIPPS03.png)
 
