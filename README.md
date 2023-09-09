@@ -48,5 +48,5 @@ To overcome this security warning, use "control+mouse click" and pick the "Open"
 
 ![File I-DRIPPS04.png](I-DRIPPS04.png)
 
-This is only necessary for the first run. Subsequent running are allowed just by using double click on the app's icon.
+This is only necessary for the first run. Subsequent runnings are allowed just by using a double click on the app's icon.
 
