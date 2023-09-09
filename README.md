@@ -26,10 +26,16 @@ If you find this work interesting/useful, please cite it in your own work. Thank
 
 ## Download and Installation
 
-The DRIPPS interface is a project developed in Java language, thus being *platform agnostic*. However, some platform nuances must be regarded as it uses the JavaFX library. Therefore, specific installations are provided below.
+The DRIPPS interface is a project developed in Java language, thus being *platform agnostic*. However, some platform nuances must be regarded as it uses the JavaFX library. Specially on the MacOs machines, some security concerns must be overcome by explicitly trusting the application being installed.
+
+Specific installations files are provided below.
 
 ### Windows Platform
 
-For the Windows platform ....
+For the Windows platform, you may download and install the following [DRIPPS-1.0.msi](#https://drive.google.com/file/d/1-wfwJ6snQF2lm5x9HzFPwtXep5jbB-e3/view?usp=drive_link) file.
+
+### MacOs X Platform
+
+For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](#https://drive.google.com/file/d/1-tY9FT9j7XE31ZkHfN95EYJV4JG1_ZB7/view?usp=drive_link) file.
 
 
