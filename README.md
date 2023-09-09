@@ -28,11 +28,11 @@ If you find this work interesting/useful, please cite it in your own work. Thank
 
 The DRIPPS interface is a project developed in Java language, thus being *platform agnostic*. However, some platform nuances must be regarded as it uses the JavaFX library. Specially on the MacOs machines, some security concerns must be overcome by explicitly trusting the application being installed.
 
-Specific installations files are provided below.
+Specific installation files are provided below. Note that you must have at least *Java 17* installed on your machine.
 
 ### Windows Platform
 
-For the Windows platform, you may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.msi.zip) file.
+For the Windows platform, you may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.msi.zip) file. The installation shall be straightforward abd at the end you will get a new folder, named DRIPPS, inside your "Program Files" or "Programs" folder. The DRIPPS.exe executable is inside this folder.
 
 ### MacOs X Platform
 
@@ -44,7 +44,7 @@ Move the app to your *Applications* folder and close the window. Then, open your
 
 ![File I-DRIPPS03.png](I-DRIPPS03.png)
 
-To overcome this security warning, use "control+mouse click" and pick the "Open" ("Abrir") option. Then a similar message as shown in the following figure will be displayed, still giving the security warnning but also allowing for the open of the application through the "Open" ("Abrir") button:
+To overcome this security warning, use "control+mouse click" and pick the "Open" ("Abrir") option. Then a similar message, as shown in the following figure, will be displayed, still giving the security warning but also allowing for the opening of the application through the "Open" ("Abrir") button:
 
 ![File I-DRIPPS04.png](I-DRIPPS04.png)
 
