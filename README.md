@@ -36,6 +36,8 @@ For the Windows platform, you may download and install the following [DRIPPS-1.0
 
 ### MacOs X Platform
 
-For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file.
+For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file. After openning the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
+
+![File I-DRIPPS01.png](I-DRIPPS01.png)
 
 
