@@ -32,10 +32,10 @@ Specific installations files are provided below.
 
 ### Windows Platform
 
-For the Windows platform, you may download and install the following [DRIPPS-1.0.msi](https://drive.google.com/file/d/1-wfwJ6snQF2lm5x9HzFPwtXep5jbB-e3/view?usp=drive_link) file.
+For the Windows platform, you may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.msi)) file.
 
 ### MacOs X Platform
 
-For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://drive.google.com/file/d/1-tY9FT9j7XE31ZkHfN95EYJV4JG1_ZB7/view?usp=drive_link) file.
+For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg) file.
 
 
