@@ -44,3 +44,9 @@ Move the app to your *Applications* folder and close the window. Then, open your
 
 ![File I-DRIPPS03.png](I-DRIPPS03.png)
 
+To overcome this security warning, use control+mouse click and pick the "open" ("abrir") option as shown in the following figure:
+
+![File I-DRIPPS04.png](I-DRIPPS04.png)
+
+This is only necessary for the first run. Subsequent running are allowed just by using double click on the app's icon.
+
