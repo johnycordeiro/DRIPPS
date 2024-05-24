@@ -7,7 +7,7 @@ A new language resource, DRIPPS, an annotated corpus of discourse relations in s
 <!---:label:figure-mainview --->
 *Figure 1: The DRIPPS application to load and explore DRel corpora.*
 
-The table presents one sentence per line with its corresponding annotations: Discourse Relation (DR), Semantic Role (SR), etc. The last column contains the sentences, which are not entirely visible. However, each table's selected sentence is totally visible below in a specific box for that purpose (light yellow colour). The set of buttons above the table, on the right-hand side, allows one to select the varieties/languages’ examples to be shown. Each one of these buttons can be independently activated and deactivated, meaning that different sets of varieties/languages can be combined and loaded into the table. In the screenshot we can see that only the European (EP) and Brazilian Portuguese (BP) varieties are selected.
+The table presents one sentence per line with its corresponding annotations: Discourse Relation (DR), Semantic Role (SR), etc. The last column contains the sentences, which are not entirely visible. However, each table's selected sentence is totally visible below in a specific box for that purpose (light yellow colour). The set of buttons above the table, on the right-hand side, allows one to select the varieties/languages’ examples to be shown. Each one of these buttons can be independently activated and deactivated, meaning that different sets of varieties/languages can be combined and loaded into the table. In the screenshot, we can see that only the European (EP) and Brazilian Portuguese (BP) varieties are selected.
 
 ![File DRIPPS2.png](DRIPPS2.png)
 <!---:label:figure-statistics --->
@@ -17,7 +17,7 @@ In [Figure 2](#figure-statistics) we have an exemplification on the generation o
 
 ## Citing our Work
 
-More information about our work on diecourse relations can be obtained on the following publication:
+More information about our work on discourse relations can be obtained in the following publication:
 
 *Silvano, P., Cordeiro, J., Leal, A., and Pais, S. DRIPPS: a Corpus with Discourse Relations in Perfect Participial Sentences.*
 *To be published by ACL in an open-access conference proceedings volume. September 2023.*
@@ -26,17 +26,17 @@ If you find this work interesting/useful, please cite it in your own work. Thank
 
 ## Download and Installation
 
-The DRIPPS interface is a project developed in Java language, thus being *platform agnostic*. However, some platform nuances must be regarded as it uses the JavaFX library. Specially on the MacOs machines, some security concerns must be overcome by explicitly trusting the application being installed.
+The DRIPPS interface is a project developed in Java language, thus being *platform agnostic*. However, some platform nuances must be regarded as it uses the JavaFX library. Especially on the macOS machines, some security concerns must be overcome by explicitly trusting the application being installed.
 
 Specific installation files are provided below. Note that you must have at least *Java 17* installed on your machine.
 
 ### Windows Platform
 
-For the Windows platform, you may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.msi.zip) file. The installation shall be straightforward abd at the end you will get a new folder, named DRIPPS, inside your "Program Files" or "Programs" folder. The DRIPPS.exe executable is inside this folder.
+You may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.msi.zip) file for the Windows platform. The installation shall be straightforward, and at the end, you will get a new folder named DRIPPS inside your "Program Files" or "Programs" folder. The DRIPPS.exe executable is inside this folder.
 
 ### MacOs X Platform
 
-For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file. After opening the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
+For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file (Intel processor) or [DRIPPS-1.0-M2.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0-M2.dmg.zip) file (M2 processor). After opening the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
 
 ![File I-DRIPPS01.png](I-DRIPPS01.png)
 
