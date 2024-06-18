@@ -32,7 +32,7 @@ Specific installation files are provided below. Note that you must have at least
 
 ### Windows Platform
 
-You may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.msi.zip) file for the Windows platform. The installation shall be straightforward, and at the end, you will get a new folder named DRIPPS inside your "Program Files" or "Programs" folder. The DRIPPS.exe executable is inside this folder.
+You may download and install the following [DRIPPS-1.1.msi](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.1.msi.zip) file for the Windows platform. The installation shall be straightforward, and at the end, you will get a new folder named DRIPPS inside your "Program Files" or "Programs" folder. The DRIPPS.exe executable is inside this folder.
 
 ### MacOs X Platform
 
