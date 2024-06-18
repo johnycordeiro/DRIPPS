@@ -36,7 +36,7 @@ You may download and install the following [DRIPPS-1.0.msi](https://www.di.ubi.p
 
 ### MacOs X Platform
 
-For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file (Intel processor) or [DRIPPS-1.0-M2.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0-M2.dmg.zip) file (M2 processor). After opening the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
+For the MacOs platform, you may download and install the following [DRIPPS-1.0.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.0.dmg.zip) file (Intel processor) or [DRIPPS-1.1-M2.dmg](https://www.di.ubi.pt/~jpaulo/a/DRIPPS-1.1-M2.dmg.zip) file (M2 processor). After opening the installer (dmg file), you shall see your *Applications* folder and the *DRIPPS.app* application, as shown in the figure below:
 
 ![File I-DRIPPS01.png](I-DRIPPS01.png)
 
